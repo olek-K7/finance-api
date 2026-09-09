@@ -1,0 +1,7 @@
+/Users/oleksandr/FinanceAPI/finance-api/src/main/java/com/oleksandr/finance_api/FinanceApiApplication.java
+/Users/oleksandr/FinanceAPI/finance-api/src/main/java/com/oleksandr/finance_api/entity/Account.java
+/Users/oleksandr/FinanceAPI/finance-api/src/main/java/com/oleksandr/finance_api/entity/Category.java
+/Users/oleksandr/FinanceAPI/finance-api/src/main/java/com/oleksandr/finance_api/entity/Transaction.java
+/Users/oleksandr/FinanceAPI/finance-api/src/main/java/com/oleksandr/finance_api/entity/User.java
+/Users/oleksandr/FinanceAPI/finance-api/src/main/java/com/oleksandr/finance_api/entity/enums/AccountType.java
+/Users/oleksandr/FinanceAPI/finance-api/src/main/java/com/oleksandr/finance_api/entity/enums/TransactionType.java
